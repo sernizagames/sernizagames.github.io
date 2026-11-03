@@ -1,2 +1,1 @@
-# sernizagames.github.io
-Web Page
+# Serniza Games Web Site
