@@ -1,2 +1,2 @@
-# Magiccustomshouse.github.io
+# sernizagames.github.io
 Web Page
