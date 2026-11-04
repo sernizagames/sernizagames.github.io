@@ -34,7 +34,7 @@ p{margin:0 0 1em}
 .nav a[aria-current="page"]{background:var(--night);color:#fff}
 
 /* Hero */
-.hero{padding-block:clamp(2.5rem,7vw,5rem) 0}
+.hero{padding-block:clamp(1rem,3vw,2rem) 0}
 .lead{max-width:40rem;font-size:1.2rem;color:var(--muted)}
 .actions{display:flex;flex-wrap:wrap;gap:.75rem;margin-top:1.5rem}
 .btn{display:inline-flex;align-items:center;gap:.6rem;padding:.85rem 1.4rem;border-radius:999px;font-family:var(--display-font);font-weight:600;font-size:1.05rem;text-decoration:none;background:var(--night);color:#fff;border:2px solid var(--night)}
@@ -55,7 +55,7 @@ p{margin:0 0 1em}
 .feature:hover .btn{background:var(--red);border-color:var(--red)}
 
 /* Banner */
-.banner{margin-top:2.5rem;border-radius:var(--border-radius);overflow:hidden;background:var(--night)}
+.banner{margin-top:1rem;border-radius:var(--border-radius);overflow:hidden;background:var(--night)}
 .banner img{width:100%}
 
 /* Text pages */
