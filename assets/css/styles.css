@@ -35,7 +35,6 @@ p{margin:0 0 1em}
 
 /* Hero */
 .hero{padding-block:clamp(1.5rem,4vw,3rem) 0}
-.hero + .section{padding-top:clamp(1rem,3vw,2rem)}
 .lead{max-width:40rem;font-size:1.2rem;color:var(--muted)}
 .actions{display:flex;flex-wrap:wrap;gap:.75rem;margin-top:1.5rem}
 .btn{display:inline-flex;align-items:center;gap:.6rem;padding:.85rem 1.4rem;border-radius:999px;font-family:var(--display-font);font-weight:600;font-size:1.05rem;text-decoration:none;background:var(--night);color:#fff;border:2px solid var(--night)}
